@@ -28,6 +28,8 @@
 - [2010年1月19日 在哈佛西湖中学的演讲](https://zh.scribd.com/document/110302239/Munger-Talk-at-Harvard-Westlake)
 - [2011年7月2日 芒格谈对世界的看法-Morgan Housel 采访1-2](https://www.fool.com/investing/general/2011/07/02/charlie-mungers-thoughts-on-the-world-part-1.aspx)
 - [2017年12月20日 在密歇根大学谈比特币](https://www.valuewalk.com/2017/12/charlie-munger-bitcoin/)
+- [芒格历年来演讲集（英文版)](http://www.valueplays.net/wp-content/uploads/The-Best-of-Charlie-Munger-1994-2011.pdf)
+
 
 ## Charlie Munger 的书籍和文章
 
