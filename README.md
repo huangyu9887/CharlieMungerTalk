@@ -105,6 +105,7 @@
 ## 其他
 
 - [阳老师整理的芒格资料清单](https://www.bagtheweb.com/b/QXzsnd)
+- [法国某位牛人整理的](http://futile.free.fr/cmeng.html)
 
 
 ## 参考资料
