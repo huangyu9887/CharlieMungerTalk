@@ -100,6 +100,11 @@
 - [Three Scientists and Their Gods: Looking for Meaning in an Age of Information](http://www.amazon.com/gp/product/0060972572/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=valueinves08c-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0060972572) by Robert Wright
 - [Only the Paranoid Survive](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821) by Andy Grove
 
+## 其他
+
+- [阳老师整理的芒格资料清单](https://www.bagtheweb.com/b/QXzsnd)
+
+
 ## 参考资料
 
 - [Mungerisms](http://mungerisms.blogspot.com/)
@@ -114,7 +119,8 @@
 
 ## ChangeLog
 
-- 2018-11-18  v1.0
+- 20181126  v1.1 添加阳老师收集记录
+- 20181118  v1.0 from Zheng Xixi(@zhengxixuan)(https://github.com/zhengxixuan/CharlieMungerTalk)
 
 
 
